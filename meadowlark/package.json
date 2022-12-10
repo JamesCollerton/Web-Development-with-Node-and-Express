@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JamesCollerton/Web_Development_with_Node_and_Express#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express3-handlebars": "^0.5.2",
     "save-dev": "^2.0.0",
     "zombie": "^6.1.4"
